@@ -1,0 +1,1 @@
+docker run -d -v /home/user/simple-python-app/spavolume/:/etc/baseapp/ -p 5000:5000/tcp spa:v3
